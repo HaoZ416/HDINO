@@ -1,2 +1,2 @@
 # HDINO
-The manuscript is currently under review. The code will be released shortly.
+The manuscript is currently under review. We will release the code soon.
