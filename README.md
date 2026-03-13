@@ -45,6 +45,15 @@ torch           2.1.0+cu121
 torchvision     0.16.0+cu121
 ```
 
+### 3. Install custom operators
+
+Navigate to the `models/HDINO/ops` directory and install the operators:
+
+```bash
+cd models/HDINO/ops
+pip install -e .
+```
+
 ### 🎨 Demo
 
 You can run our interactive demo locally to experience **HDINO**:
