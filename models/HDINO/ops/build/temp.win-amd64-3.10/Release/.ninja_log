@@ -1,0 +1,6 @@
+# ninja log v5
+7	30335	7692689771628935	C:/software/code/Text-Trex2/models/GroundingDINO/ops/build/temp.win-amd64-3.10/Release/software/code/Text-Trex2/models/GroundingDINO/ops/src/cpu/ms_deform_attn_cpu.obj	17cac208e318bd3b
+15	38008	7692689848341348	C:/software/code/Text-Trex2/models/GroundingDINO/ops/build/temp.win-amd64-3.10/Release/software/code/Text-Trex2/models/GroundingDINO/ops/src/vision.obj	3582a34dd022d93f
+16	5848	7692699030415262	C:/software/code/Text-Trex2/models/GroundingDINO/ops/build/temp.win-amd64-3.10/Release/software/code/Text-Trex2/models/GroundingDINO/ops/src/cpu/ms_deform_attn_cpu.obj	a6556280de181957
+23	12978	7692699101722754	C:/software/code/Text-Trex2/models/GroundingDINO/ops/build/temp.win-amd64-3.10/Release/software/code/Text-Trex2/models/GroundingDINO/ops/src/vision.obj	9d465c58d508f153
+21	20373	7692699175441853	C:/software/code/Text-Trex2/models/GroundingDINO/ops/build/temp.win-amd64-3.10/Release/software/code/Text-Trex2/models/GroundingDINO/ops/src/cuda/ms_deform_attn_cuda.obj	55416c28e9af8fae
